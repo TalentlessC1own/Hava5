@@ -20,7 +20,7 @@ enum class Answer
 int main()
 {
 	int const sortsCount = 5;
-	std::cout << "Nikita 415 var 4 kr 3 " << std::endl
+	std::cout << "Hava 415 var 6 kr 3 " << std::endl
 		<< "Sort " << std::endl;
 	while (true)
 	{
