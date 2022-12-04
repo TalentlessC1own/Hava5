@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hava5", "Hava5\Hava5.vcxproj", "{84E4F934-E617-4629-8058-4D508026BAA8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest", "UnitTest\UnitTest.vcxproj", "{68FC247B-E952-4DCB-B899-05D55AE974F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{84E4F934-E617-4629-8058-4D508026BAA8}.Release|x64.Build.0 = Release|x64
 		{84E4F934-E617-4629-8058-4D508026BAA8}.Release|x86.ActiveCfg = Release|Win32
 		{84E4F934-E617-4629-8058-4D508026BAA8}.Release|x86.Build.0 = Release|Win32
+		{68FC247B-E952-4DCB-B899-05D55AE974F1}.Debug|x64.ActiveCfg = Debug|x64
+		{68FC247B-E952-4DCB-B899-05D55AE974F1}.Debug|x64.Build.0 = Debug|x64
+		{68FC247B-E952-4DCB-B899-05D55AE974F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{68FC247B-E952-4DCB-B899-05D55AE974F1}.Debug|x86.Build.0 = Debug|Win32
+		{68FC247B-E952-4DCB-B899-05D55AE974F1}.Release|x64.ActiveCfg = Release|x64
+		{68FC247B-E952-4DCB-B899-05D55AE974F1}.Release|x64.Build.0 = Release|x64
+		{68FC247B-E952-4DCB-B899-05D55AE974F1}.Release|x86.ActiveCfg = Release|Win32
+		{68FC247B-E952-4DCB-B899-05D55AE974F1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
